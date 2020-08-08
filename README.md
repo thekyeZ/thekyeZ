@@ -1,7 +1,7 @@
 ### Hi!  I'm Przemek - aka thekyeZ 👋
 
 ## I'm a Developer and Teacher!
-- 🔭 I’m currently working on a VagAnalyzer and LocPass!
+- 🔭 I’m currently working on a VagAnalyzer and LocPass! (https://locpass.vercel.app/)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar
