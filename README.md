@@ -3,7 +3,7 @@
 ## I'm a Developer and Teacher!
 - 🔭 I’m currently working on a VagAnalyzer and LocPass! (https://locpass.vercel.app/)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects, learn some Swift 
+- 🥅 2022 Goals: Contribute more to Open Source projects, learn some Swift 
 - ⚡ Fun fact: I love to play guitar
 
 <br />
