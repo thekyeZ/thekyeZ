@@ -1,7 +1,7 @@
 ### Hi!  I'm Przemek - aka thekyeZ 👋
 
 ## I'm a Developer and Teacher!
-- 🔭 I’m currently working on a Slnt (encrypted private messenger)! (https://encrypted-messenger-seven.vercel.app/)
+- 🔭 I’m currently working on a Slnt (encrypted private messenger)! (https://slnt.app/)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects, learn some Swift 
 - ⚡ Fun fact: I love to play guitar
